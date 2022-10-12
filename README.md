@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
-<h3 align="center">I'm a Software Engineer working in Bangalore, India</h3>
+<p>Hi there, I'm Gaurav Kumar</p>
+<p>I'm a Software Engineer working in Bangalore, India</p>
 
 - I use daily **: Java, Golang, Scala, Spring-boot, MySQL, Mybatis, Redis, ElasticSearch, Kafka, RocketMQ**
 
