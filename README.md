@@ -1,9 +1,7 @@
 <p>Hi 👋, I'm Gaurav Kumar.</p>
 <p>I'm a Software Engineer working in Bangalore, India.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gkumarcoder&label=Profile%20views&color=0e75b6&style=flat" alt="gkumarcoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gkumarcoder" alt="gkumarcoder" /></a> </p>
 
 - I use daily **: Java, Golang, Scala, Spring-boot, MySQL, Mybatis, Redis, ElasticSearch, Kafka, RocketMQ**
 
