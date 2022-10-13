@@ -3,7 +3,7 @@
 
 
 
-- I use daily **: Java, Golang, Scala, Spring-boot, MySQL, Mybatis, Redis, ElasticSearch, Kafka, RocketMQ**
+- I use daily : Java,  Spring-boot, MySQL, Mybatis, Redis, ElasticSearch, Kafka, RocketMQ, Golang, Scala.
 
 - 📫 How to reach me **gkumar4@outlook.com**
 
