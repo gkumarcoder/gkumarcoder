@@ -1,13 +1,4 @@
-<p>Hi 👋, I'm Gaurav Kumar.</p>
-<p>I'm a Software Engineer working in Bangalore, India.</p>
 
-
-
-- I use daily : **Java, Spring-boot,Hibernate, MySQL, Microservices( Clean Architecture, DDD, SAGA, Outbox & Kafka) Mybatis, Redis, ElasticSearch, RocketMQ, Golang, Scala.**
-
-- 📫 How to reach me **gkumar4@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/gkumar111/](https://www.linkedin.com/in/gkumar111/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
