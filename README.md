@@ -132,7 +132,7 @@ Currently Learning: Advanced Kubernetes Patterns & Platform Engineering
 
 <div align="center">
 
-### 🌟 "First, solve the problem. Then, write the code." — John Johnson
+### 🌟 "First, solve the problem. Then, write the code."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gkumarcoder&label=Profile%20Views&color=0e75b6&style=flat)
 
